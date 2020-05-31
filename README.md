@@ -27,5 +27,5 @@ Console.WriteLine($"Power Generated Total: {inverterData.EnergyGeneratedTotal} k
 Console.WriteLine($"PV - String 1 Power: {inverterData.PVInfo.String1.Power} Watt");
 Console.WriteLine($"PV - String 2 Power: {inverterData.PVInfo.String2.Power} Watt");
 Console.WriteLine($"PV - String 3 Power: {inverterData.PVInfo.String3.Power} Watt");
-
+```
 See also the SolarmanWifiTestConsole project
