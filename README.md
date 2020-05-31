@@ -1,5 +1,6 @@
 # SolarmanWifiApi
-This library can be used to connect to Solarman Wifi devices that are part of Solar Inverter systems of the brands: Omnik, Hosola, Goodwe, Solax, Ginlong, Samil, Sofar or Power-One Solar.
+This C# library can be used to retrieve solar yield info from Omnik, Hosola, Goodwe, Solax, Ginlong, Samil, Sofar or Power-One Solar inverters.
+It connects to most inverters with an Solarman Wifi device integrated.
 
 The library is written for .NET Standard 2.0 and can be used in most cases. No dependencies.
 
